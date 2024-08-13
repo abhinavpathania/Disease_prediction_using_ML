@@ -51,3 +51,4 @@ python disease_prediction_app.py
 ## Authors
 
 - Abhinav Pathania(https://github.com/abhinavpathania)
+-Parth Kandoria(https://github.com/ParthKandoria)
